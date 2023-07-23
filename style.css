@@ -1,0 +1,87 @@
+body{
+    margin:0px;
+}
+
+.header-div{
+    background-color:#000080;
+    color:white;
+    margin:0;
+    padding:20px 15px 20px 10px;
+}
+.description-en-header{
+    color:#00ffff
+}
+.header-img{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    float:right;
+}
+.gpa{
+    float:right;
+}
+.table-header{
+    width:100%;
+    float:right;
+    background-color:#020225;
+    color:blanchedalmond;
+    padding:1px;
+}
+.table-header td{
+    width: 20%;
+}
+h1{
+    color:#008040 !important;
+    text-decoration-line: underline;
+}
+.threequarter{ 
+    width:85%;
+}
+.quarter{
+    width:15%;
+}
+.one{
+    display:flex;
+}
+.ulinline{
+    margin:0;
+    padding: 10px 25px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    background-color: #020225;
+}
+.firstrow{
+     display:flex;
+	 padding:5px;
+}
+.secondfirstrow{
+     margin:0px 150px;
+}
+.skills td{
+     border: solid;
+	 background-color:grey;
+	 border-color:gray;
+	 border-radius: 30%;
+	 text-align: center;
+	 padding: 5px 30px;
+	 color:white;
+	 }
+.secondrow{
+     padding:5px;
+	 display:flex;
+}
+.secondsecondrow{
+    padding:10px 20px;
+    margin:0px 20px;
+}
+.thrdrow{
+    display:flex;
+}
+.secondthrdrow{
+     margin: 0px 150px;
+}
+.honors{
+    list-style-type:none;
+} 
